@@ -2,11 +2,11 @@
 
 This repo provides you with a proper CSS file for importing the beautiful [HK Grotesk](https://github.com/HankenDesignCo/HK-Grotesk) to your project. Just add this to your HTML head:
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/brilliant-drink/HK-Grotesk-Web/font.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/drinking-code/HK-Grotesk-Web/font.min.css">
 ```
 ...or this to your CSS:
 ```css
-@import url('https://cdn.jsdelivr.net/gh/brilliant-drink/HK-Grotesk-Web/font.min.css');
+@import url('https://cdn.jsdelivr.net/gh/drinking-code/HK-Grotesk-Web/font.min.css');
 ```
 
 ## Includes
